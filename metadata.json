@@ -1,0 +1,6 @@
+{
+  "name": "Karura Flow",
+  "description": "Precision irrigation, borehole & rainwater storage, and soil moisture management for estates and greenbelts in Gigiri, Nairobi, Kenya.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
